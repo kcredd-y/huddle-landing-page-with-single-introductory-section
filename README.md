@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/kcredd-y/huddle-landing-page-with-single-introductory-section]
-- Live Site URL: [https://app.netlify.com/sites/peppy-donut-b146a4/overview]
+- Live Site URL: [https://peppy-donut-b146a4.netlify.app/]
 
 ### Built with
 
